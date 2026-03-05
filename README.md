@@ -21,12 +21,11 @@ The stopwatch tracks elapsed time using QTime and updates the display through a 
 - Add lap time recording
 
 - Add keyboard shortcuts for controls
-
-## 🎥 Video
-
-https://github.com/user-attachments/assets/74d04c12-1915-41d7-9dbd-6891e119b71d
+  
 - Add theme customization
 
 - Include sound notifications
 
 ## 🎥 Video
+
+https://github.com/user-attachments/assets/74d04c12-1915-41d7-9dbd-6891e119b71d
